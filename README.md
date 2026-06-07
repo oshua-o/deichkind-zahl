@@ -10,7 +10,7 @@ Der Code, der das dann weiter verarbeitet, ist zwar stundenlang von meinen Ideen
 - Los geht's!
 
 ## Warum gibt es das?
-Weil es wichtig ist, zu wissen, welche Deichkind-Zahl welche*r Musiker*in hat.
+Weil es wichtig ist, zu wissen, welche Deichkind-Zahl welche:r Musiker:in hat.
 
 ## Kann man auch z.B. die Mr. Oizo-Zahl bestimmen?
 Na klar!
