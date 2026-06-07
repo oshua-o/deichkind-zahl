@@ -9,9 +9,6 @@ Der Code, der das dann weiter verarbeitet, ist zwar stundenlang von meinen Ideen
 - pip install musicbrainzngs
 - Los geht's!
 
-## Warum ist schon ein Cache da?
-Ich habe schon 
-
 ## Warum gibt es das?
 Weil es wichtig ist, zu wissen, welche Deichkind-Zahl welche*r Musiker*in hat.
 
